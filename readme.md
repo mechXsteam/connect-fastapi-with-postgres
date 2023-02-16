@@ -1,3 +1,5 @@
+# Connect FastApi with Postgres SQL
+
 1. database.py
     ```
     from sqlalchemy import create_engine
